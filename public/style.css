@@ -1,0 +1,11 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+body {
+    text-align: center;
+}
+
+col {
+    display: inline-block;
+}
